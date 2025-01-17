@@ -1,7 +1,5 @@
-# My first flask project
+# Chapter 9 assesment project- Databases
 
-- I created a flask structure
-- I installed flask
-- I was using a virtual environment
-- I can now use templates
-- I now know how to inherit templates
+- I created a simple database usin forms
+- I used flask
+- I was also using html
